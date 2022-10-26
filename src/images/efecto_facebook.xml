@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/logo_face"
+        android:state_pressed="true"
+
+        android:layout_width="85dp"
+        android:layout_height="85dp"/>
+    <item android:drawable="@drawable/logo_face_grande1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        />
+</selector>
